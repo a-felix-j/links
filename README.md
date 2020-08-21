@@ -10,3 +10,5 @@
 ### Gallery 
 * [lightgallery.js](https://sachinchoolur.github.io/lightgallery.js/) - Full featured javascript lightbox gallery, No dependencies.
 * [GLightbox](https://biati-digital.github.io/glightbox/) - touchable Pure Javascript lightbox with mobile and video support
+* [fslightbox.js](https://fslightbox.com/) - overlaying box with tons of features such as captions, thumbnails, zooming and more
+* [fslightbox javascript][https://fslightbox.com/javascript]
